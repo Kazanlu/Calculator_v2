@@ -30,6 +30,12 @@ Add 15, divide 3 and reset memory:
 0
 ```
 
+# Instalation
+
+```python
+pip install calculator
+```
+
 # License
 
 MIT (https://choosealicense.com/licenses/mit/)
