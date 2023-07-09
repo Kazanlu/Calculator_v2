@@ -10,3 +10,7 @@ This is package for simple python calculations:
 Package consist of two files:
   1. calculator_main - are file consisting of Class and all methods
   2. calculator_test - are file with unittests
+
+# License
+
+MIT (https://choosealicense.com/licenses/mit/)
