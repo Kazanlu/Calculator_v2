@@ -2,7 +2,6 @@ class Calculator:
     def __init__(self):
         self.memory = 0  # Current calculator number is zero as none of the actions was done yet.
 
-    
     # Method which will add number to the current memory
     def addition(self, number):
         self.memory += number
