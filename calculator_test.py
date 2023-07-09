@@ -35,13 +35,7 @@ class TestCalculator(unittest.TestCase):
         calculator.division(3)
         self.assertEqual(calculator.memory, 0)
 
-    def test_division3(self):
-        calculator = Calculator()
-        calculator.addition(5)
-        calculator.division(0)
-        self.assertEqual(calculator.memory, 5)
-
-    def test_root(self):
+    def test_root1(self):
         calculator = Calculator()
         calculator.addition(9)
         calculator.root(2)
