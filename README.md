@@ -1,12 +1,12 @@
 # Calculator project
 
 This is package for simple python calculations:
-  addition
-  subtraction
-  division
-  multiplication
-  taking root from a number
+  1. addition
+  2. subtraction
+  3. division
+  4. multiplication
+  5. taking root from a number
 
 Package consist of two files:
-  calculator_main - are file consisting of Class and all methods
-  calculator_test - are file with unittests
+  1. calculator_main - are file consisting of Class and all methods
+  2. calculator_test - are file with unittests
