@@ -30,10 +30,12 @@ Add 15, divide 3 and reset memory:
 0
 ```
 
-# Instalation
+# Instalation and import
 
 ```python
-pip install calculator
+pip install -i https://test.pypi.org/simple/ calculator32132321
+
+from calculator_main import Calculator
 ```
 
 # License
