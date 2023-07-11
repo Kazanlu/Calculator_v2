@@ -1,8 +1,9 @@
 [build-system]
-requires = []
+requires = ["flit"]
+build-backend = "flit.buildapi"
 
 [tool.flit.metadata]
-module = "calculator"
+module = "calculator32132321"
 author = "Lukas Kazancevas"
 author-email = "lukas.kazancevas@gmail.com"
 home-page = "https://github.com/Kazanlu/Calculator_v2"
